@@ -21,7 +21,7 @@
 | 09:00 | (10) | Intro: API คืออะไร มีมาทำไม มีประเภทไรบ้าง --> lead to RESTful API   |
 | 09:10 | (5) | แนะนำคอร์ส  |
 | 09:15 | (5) | เครื่องมือที่จะใช้ <ul><li>XAMPP<ul><li>Apache2</li><li>MySQL</li><li>PHP7</li><li>phpMyAdmin</li></ul></li><li>Visual Studio Code</li><li>Postman</li></ul> |
-| 09:20 | (20) | try first API ลองสร้าง GET Hello, MU <ul><li>use Visual Studio Code<ul><li>create project</li><li>create file</li><li>rename</li><li>save</li></ul></li><li>curl?</li><li>call with Browser</li><li>Postman</li></ul>  |
+| 09:20 | (20) | try first API ลองสร้าง GET Hello, MU <ul><li>use Visual Studio Code<ul><li>create project</li><li>create file</li><li>rename</li><li>save</li></ul></li><li>call with Browser</li><li>Postman</li></ul>  |
 | 09:40 | (10) | <ul><li>Project Structure<ul><li>Model Layer</li><li>Business Logic Layer</li><li>Controller Layer</li></ul><li>Class Concept<ul><li>properties</li><li>methods</li><li>public</li><li>private</li><li>protected</li></ul></ul>  |
 | 09:50 | (30) | Database with MySQL & phpMyAdmin <ul><li>Intro Database</li><li>Intro phpMyAdmin</li><li>create DATABASE</li><li>create TABLE</li><li>INSERT Data</li></ul>
 | 10:20 | (10) | **+++++++++++++++++++++++++++ Break for 10 min. +++++++++++++++++++++++++++**   |
@@ -52,7 +52,9 @@
 | 09:45 | (25) | try jQuery to Call POST API   |
 | 10:10 | (10) | manage HTTP RESPONSE   |
 | 10:20 | (10) | **+++++++++++++++++++++++++++ Break for 10 min. +++++++++++++++++++++++++++**   |
-| 10:30 | (90) | Q&A   |
+| 10:30 | (10) | PHP call API - **GET**   |
+| 10:40 | (20) | PHP call API - **POST**   |
+| 11:00 | (60) | Q&A    |
 | ...   |      | 
 | 12:00 | (60) | **============================> Have Lunch. <============================**  |
 | ...   |      |   |
