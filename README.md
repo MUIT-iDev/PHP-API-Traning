@@ -1,4 +1,4 @@
-# PHP-API-Traning
+# PHP API & jQuery Traning
 
 > **Course**: PHP API \
 > **Day**: 22-23 June 2020 \
