@@ -29,9 +29,9 @@
 | 10:40 | (10) | create API Controller - **GET** {config object -> [Model, Business Logic, Controller], routing}  |
 | 10:50 | (10) | return value <ul><li>text format</li><li>JSON format</li></ul>  |
 | 11:00 | (10) | HTTP Request <ul><li>GET</li><li>POST</li><li>PUT</li><li>DELETE</li></ul>  |
-| 11:10 | (30) | try API Controller - **POST** { *parameter/Body/Header* values }  |
-| 11:40 | (10) | try API Controller - **PUT**  |
-| 11:50 | (10) | try API Controller - **DELETE**  |
+| 11:10 | (30) | create API Controller - **POST** { *parameter/Body/Header* values }  |
+| 11:40 | (10) | create API Controller - **PUT**  |
+| 11:50 | (10) | create API Controller - **DELETE**  |
 | ...   |      | 
 | 12:00 | (60) | **============================> Have Lunch. <============================**  |
 | ...   |      |   |
@@ -47,9 +47,9 @@
 |:--------:|:--------:|:------------|
 | 09:00 | (10) | Recap Yesterday   |
 | 09:10 | (10) | Intro jQuery & Install   |
-| 09:20 | (15) | try jQuery to Call GET API   |
+| 09:20 | (15) | jQuery call API - **GET**   |
 | 09:35 | (10) | JSON    |
-| 09:45 | (25) | try jQuery to Call POST API   |
+| 09:45 | (25) | jQuery call API - **POST**   |
 | 10:10 | (10) | manage HTTP RESPONSE   |
 | 10:20 | (10) | **+++++++++++++++++++++++++++ Break for 10 min. +++++++++++++++++++++++++++**   |
 | 10:30 | (10) | PHP call API - **GET**   |
