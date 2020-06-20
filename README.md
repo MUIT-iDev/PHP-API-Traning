@@ -5,6 +5,15 @@
 > **Time**: 9:00 - 15:30 \
 > **Room**: OP/OSM2 
 
+============================== **`Tools`** ==============================
+- XAMPP [Apache + MySQL + PHP + phpMyAdmin] [Download XAMPP for Windows v.7.4.7](https://www.apachefriends.org/download.html)
+- Visual Studio Code [Download Visual Studio Code](https://code.visualstudio.com/download)
+- Postman [Download Postman](https://www.postman.com/downloads/)
+- jQuery [jQuery Library](https://code.jquery.com/)
+
+============================ **`Requirement`** ============================
+- ผู้เรียนต้องมีความรู้พื้นฐานด้าน Web Programming (PHP, Javascript)
+
 ============================== **`Day 1`** ==============================
 |   TIME   |    DR    |    DETAIL   |
 |:--------:|:--------:|:------------|
@@ -22,6 +31,27 @@
 | 11:10 | (30) | try API Controller - **POST** { *parameter/Body/Header* values }  |
 | 11:40 | (10) | try API Controller - **PUT**  |
 | 11:50 | (10) | try API Controller - **DELETE**  |
+| ...   |      | 
+| 12:00 | (60) | **============================> Have Lunch. <============================**  |
+| ...   |      |   |
+| 13:00 | (140) | try **Work Shop** with **Assignment**  |
+| .     |      |   |
+| .     |      | **+++++++++++++++++++++++++++ Break for 10 min. +++++++++++++++++++++++++++** |
+| .     |      |   |
+| 15:20 | (10) | Discussion  |
+| 15:30 | (0) | End Day 1 Course  |
+
+============================== **`Day 2`** ==============================
+|   TIME   |    DR    |    DETAIL   |
+|:--------:|:--------:|:------------|
+| 09:00 | (10) | Recap Yesterday   |
+| 09:10 | (10) | Intro jQuery & Install   |
+| 09:20 | (15) | try jQuery to Call GET API   |
+| 09:35 | (10) | JSON    |
+| 09:45 | (25) | try jQuery to Call POST API   |
+| 10:10 | (10) | manage HTTP RESPONSE   |
+| 10:20 | (10) | **+++++++++++++++++++++++++++ Break for 10 min. +++++++++++++++++++++++++++**   |
+| 10:30 | (90) | Q&A   |
 | ...   |      | 
 | 12:00 | (60) | **============================> Have Lunch. <============================**  |
 | ...   |      |   |
