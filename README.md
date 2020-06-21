@@ -9,6 +9,7 @@
 - XAMPP [Apache + MySQL + PHP + phpMyAdmin] [Download XAMPP for Windows v.7.4.7](https://www.apachefriends.org/download.html)
 - Visual Studio Code [Download Visual Studio Code](https://code.visualstudio.com/download)
 - Postman [Download Postman](https://www.postman.com/downloads/)
+- PHP API Routing Library [Download php-router](https://github.com/gregdel/php-router)
 - jQuery [jQuery Library](https://code.jquery.com/)
 
 ============================ **`Requirement`** ============================
