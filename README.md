@@ -25,7 +25,7 @@
 | 09:40 | (10) | <ul><li>Project Structure<ul><li>Model Layer</li><li>Business Logic Layer</li><li>Controller Layer</li></ul><li>Class Concept<ul><li>properties</li><li>methods</li><li>public</li><li>private</li><li>protected</li></ul></ul>  |
 | 09:50 | (30) | Database with MySQL & phpMyAdmin <ul><li>Intro Database</li><li>Intro phpMyAdmin</li><li>create DATABASE</li><li>create TABLE</li><li>INSERT Data</li></ul>
 | 10:20 | (10) | **+++++++++++++++++++++++++++ Break for 10 min. +++++++++++++++++++++++++++**   |
-| 10:30 | (10) | <ul><li>API Structure<ul><li>domain</li><li>version</li><li>object</li><li>action</li></ul><li>routing</li></ul>  |
+| 10:30 | (10) | <ul><li>API Structure<ul><li>domain</li><li>version</li><li>object</li><li>action</li><li>value</li></ul><li>routing</li></ul>  |
 | 10:40 | (10) | create API Controller - **GET** {config object -> [Model, Business Logic, Controller], routing}  |
 | 10:50 | (10) | return value <ul><li>text format</li><li>JSON format</li></ul>  |
 | 11:00 | (10) | HTTP Request <ul><li>GET</li><li>POST</li><li>PUT</li><li>DELETE</li></ul>  |
