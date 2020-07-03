@@ -4,6 +4,7 @@
 > **Day**: 22-23 June 2020 \
 > **Time**: 9:00 - 15:30 \
 > **Room**: OP/OSM2 
+> **Document**: https://github.com/MUIT-iDev/PHP-API-Traning/wiki
 
 ============================== **`Tools`** ==============================
 - XAMPP [Apache + MySQL + PHP + phpMyAdmin] [Download XAMPP for Windows v.7.4.7](https://www.apachefriends.org/download.html)
